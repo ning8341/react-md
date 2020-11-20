@@ -1,0 +1,37 @@
+.ant-carousel .slick-slide {
+  text-align: center;
+  background: #364d79;
+  overflow: hidden;
+}
+
+.identyImg {
+  width: 90%;
+  height: calc(80vh);
+}
+
+.boderP {
+  position: absolute;
+  bottom: 0em;
+  padding-left: 15em;
+}
+.content {
+ padding: 20px;
+  
+}
+
+.detail {
+  padding: 5px;
+  line-height: 1.5em;
+  font-size: 24px;
+  color: white;
+}
+.tailP{
+   color: white;
+   text-align: center;
+}
+.hotUl>li{
+   padding: 15px;
+   width: 50%;
+   float: left;
+}
+
