@@ -8,16 +8,7 @@ import {
   Link
 } from "react-router-dom";
 import router from './router/RouterArray';
-import App from './componets/App';
-import { Provider } from 'react-redux';
-import store from './store/index'
 
-// ReactDOM.render(
-//   <Provider store={store}>
-//         <App />
-//     </Provider>,
-//   document.getElementById('root')
-// );
 ReactDOM.render(
   <Router>
     <div >

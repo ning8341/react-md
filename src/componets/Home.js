@@ -23,7 +23,6 @@ class Home extends Component {
         </Carousel>
         <div className="content">
           <p className="detail">热点景色</p>
-
         </div>
         <div>
           <ul className="hotUl">
